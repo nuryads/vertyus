@@ -3,20 +3,19 @@
 - Auto Claim Card Balance
 - Auto Upgrade Farm, Storage & Population
 - Auto Uograde Cards
-- Auto Calim Ads Reward
-- Auto Complete Task
+- Auto Calim Ads Rewards
+- Auto Complete Tasks
 
-Hướng dẫn:
+Instruct:
 
-YÊU CẦU ĐÃ CÀI PYTHON NHÉ ANH EM
+REQUIRED TO HAVE PYTHON INSTALLED, BROTHERS
 
-Cài các module cần thiết:   pip install -r requirements.txt
+Install necessary modules: pip install -r requirements.txt
 
-định dạng proxy : http://user:pass@ip:port
+proxy format: http://user:pass@ip:port
 
-định dạng:   query_id=xxxx
+format: query_id=xxxx
 
-- Cách lấy query_id như ảnh
+- How to get query_id as shown in the image
 
-Chạy tool bằng lệnh:    python vertus.py
-
+Run the tool with the command: python vertus.py
